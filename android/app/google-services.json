@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "157498430315",
+    "project_id": "queuemate-2b55d",
+    "storage_bucket": "queuemate-2b55d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157498430315:android:c7f910196a4951543bf22e",
+        "android_client_info": {
+          "package_name": "com.example.queuemate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCo5byyJ-cEzLCeLXvIsUWXKqOIfBuIjkc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
